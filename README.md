@@ -5,8 +5,10 @@
   
   
 ![Wadson-Ferreira](https://github-readme-stats.vercel.app/api?username=Wadson-Ferreira&show_icons=true&theme=synthwave&locale=pt-br)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wadson-Ferreira&theme=synthwave&locale=pt-br)](https://git.io/streak-stats)
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadson-Ferreira&layout=compact&langs_count=6&theme=synthwave&locale=pt-br"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Wadson-Ferreira&theme=synthwave&locale=pt-br)](https://git.io/streak-stats) 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadson-Ferreira&layout=compact&langs_count=6&theme=synthwave&locale=pt-br"/>
 
 
 
