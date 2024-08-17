@@ -1,18 +1,7 @@
-<div> 
-   <a href="mailto:dev.wadson@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/wadson-ferreira/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  </div>
-  
-  
-![Wadson-Ferreira](https://github-readme-stats.vercel.app/api?username=Wadson-Ferreira&show_icons=true&theme=synthwave&locale=pt-br)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wadson-Ferreira&theme=synthwave&locale=pt-br)](https://git.io/streak-stats) 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadson-Ferreira&layout=compact&langs_count=6&theme=synthwave&locale=pt-br"/>
-
-
-
-## Estudando no Momento:
+ <h4 align="center">Estudante de Ciências da Computação na Faculdade Descomplica | Apaixonado por Programação | Dedicado ao Aprendizado Contínuo</h4>
+ 
+ Estudando no Momento:
 
 <div style="display: inline-block">
   <img align= "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -20,13 +9,24 @@
   <img align= "center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
- <h4 align="center">Estudante de Ciências da Computação na Faculdade Descomplica | Apaixonado por Programação | Dedicado ao Aprendizado Contínuo</h4>
+##
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Wadson-Ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wadson-Ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-###
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Wadson-Ferreira&theme=synthwave&locale=pt-br)](https://git.io/streak-stats)
+
+<div> 
+   <a href="mailto:dev.wadson@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/wadson-ferreira/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  </div>
+
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Wadson-Ferreira/count.svg?"  />
 </div>
 
-###
+##
 
