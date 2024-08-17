@@ -2,9 +2,12 @@
    <a href="mailto:dev.wadson@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/wadson-ferreira/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   </div>
-
+  
+  
 ![Wadson-Ferreira](https://github-readme-stats.vercel.app/api?username=Wadson-Ferreira&show_icons=true&theme=synthwave&locale=pt-br)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Wadson-Ferreira&theme=synthwave&locale=pt-br)](https://git.io/streak-stats)
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wadson-Ferreira&layout=compact&langs_count=6&theme=synthwave&locale=pt-br"/>
+
 
 
 ## Estudando no Momento:
