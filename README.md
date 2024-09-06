@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wadson-Ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Wadson-Ferreira&theme=synthwave&locale=pt-br)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wadson-Ferreira&theme=synthwave&hide_border=true&border_radius=3.4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
 
 <div> 
    <a href="mailto:dev.wadson@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
