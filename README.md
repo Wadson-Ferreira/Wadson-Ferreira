@@ -1,32 +1,44 @@
-
- <h4 align="center">Estudante de Ciências da Computação na Faculdade Descomplica | Apaixonado por Programação | Dedicado ao Aprendizado Contínuo</h4>
- 
- Estudando no Momento:
-
-<div style="display: inline-block">
-  <img align= "center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align= "center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-##
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Wadson-Ferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wadson-Ferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Wadson-Ferreira&theme=synthwave&hide_border=true&border_radius=3.4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
-
-<div> 
-   <a href="mailto:dev.wadson@gmail.com" target="_blank">  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/wadson-rocha/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  </div>
-
-
+# Olá, eu sou o Genesys Wadson! 👋
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Wadson-Ferreira/count.svg?"  />
+  <em>QA Analyst Intern @ Zscan Software | Future Software Engineer</em>
 </div>
 
-##
+### 👨‍💻 Sobre Mim
 
+🎓 **Estudante do 8º e último período de Ciência da Computação** e apaixonado por **Desenvolvimento de Software**.
+
+💼 Atualmente, sou **QA Analyst Estagiário na Zscan Software**, onde atuo diretamente com metodologias ágeis. Meu foco é unir a visão crítica de testes com conhecimentos sólidos de desenvolvimento backend, garantindo qualidade desde a concepção do código.
+
+🚀 **O que estou fazendo agora:**
+* 🧪 Executando testes funcionais e criando documentação técnica (BDD/Gherkin) no **Jira** e **Zephyr**.
+* ☕ Aprofundando meus conhecimentos em **Java** e **Spring Boot** (Foco em Backend).
+* 🛠️ Estudando também **JavaScript** e **TypeScript** (Foco em automação, testes de API e Backend).
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+**QA & Gestão:**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-333333?style=flat&logo=zephyr&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Apidog](https://img.shields.io/badge/Apidog-735AF2?style=flat&logo=apidog&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
+**Desenvolvimento:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
+### 📚 Foco de Estudos
+- **Java & Spring Boot:** Arquitetura de microsserviços e APIs robustas.
+- **QA Moderno:** Transição de testes manuais para automatizados.
+- **Fullstack Skills:** Integração de Backend com automação via JS/TS.
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wadson-rocha/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.wadson@gmail.com)
